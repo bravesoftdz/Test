@@ -16,7 +16,7 @@ object Form1: TForm1
   object Label1: TLabel
     Left = 104
     Top = 48
-    Width = 98
+    Width = 169
     Height = 13
     Caption = 'This is the test form '
   end
