@@ -23,7 +23,7 @@ object Form1: TForm1
   object Edit1: TEdit
     Left = 104
     Top = 67
-    Width = 121
+    Width = 193
     Height = 21
     TabOrder = 0
   end
