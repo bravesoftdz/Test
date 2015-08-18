@@ -20,4 +20,11 @@ object Form1: TForm1
     Height = 13
     Caption = 'This is the test form '
   end
+  object Edit1: TEdit
+    Left = 104
+    Top = 67
+    Width = 121
+    Height = 21
+    TabOrder = 0
+  end
 end
